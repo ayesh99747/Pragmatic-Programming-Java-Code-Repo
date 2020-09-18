@@ -3,6 +3,6 @@ package lk.pragmatic.programmer;
 public class Main {
 
     public static void main(String[] args) {
-        Vehicle vehicle = new Vehicle();
+        //Vehicle vehicle = new Vehicle();
     }
 }
