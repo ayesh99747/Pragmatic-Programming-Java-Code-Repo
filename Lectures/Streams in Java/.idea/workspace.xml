@@ -19,66 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef2dc03-d729-41e9-b3ad-e8d0d208d8f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/Exceptions in Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/src/lk/pragmatic/programming/CheckedExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions in Java/src/lk/pragmatic/programming/UncheckedExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/File Class in Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/src/lk/pragmatic/programming/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../File Class in Java/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/FileReader and FileWriter in Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/src/lk/pragmatic/programming/FileReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileReader and FileWriter in Java/src/lk/pragmatic/programming/FileWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/Reading and Writing Objects in Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/objects.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/src/lk/pragmatic/programming/ReadFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/src/lk/pragmatic/programming/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reading and Writing Objects in Java/src/lk/pragmatic/programming/WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams in Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/pragmatic/programmer/CopyFileWithByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/pragmatic/programmer/CopyFileWithCharacterStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/pragmatic/programmer/FileInputOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cef2dc03-d729-41e9-b3ad-e8d0d208d8f3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,6 +127,7 @@
       <workItem from="1604288791179" duration="281000" />
       <workItem from="1604289705522" duration="776000" />
       <workItem from="1604424965160" duration="1125000" />
+      <workItem from="1604459872768" duration="15000" />
     </task>
     <servers />
   </component>
