@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef2dc03-d729-41e9-b3ad-e8d0d208d8f3" name="Default Changelist" comment="" />
+    <list default="true" id="cef2dc03-d729-41e9-b3ad-e8d0d208d8f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FileReader and FileWriter in Java" />
@@ -113,6 +116,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,11 +132,17 @@
       <workItem from="1604289705522" duration="776000" />
       <workItem from="1604424965160" duration="1125000" />
       <workItem from="1604459872768" duration="15000" />
+      <workItem from="1604632392984" duration="11000" />
+      <workItem from="1604632454116" duration="5000" />
+      <workItem from="1604632477598" duration="22000" />
+      <workItem from="1604632564831" duration="16000" />
+      <workItem from="1604632648460" duration="10000" />
+      <workItem from="1604632712903" duration="147000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
